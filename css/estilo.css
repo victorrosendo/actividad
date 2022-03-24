@@ -1,0 +1,14 @@
+.centrado{
+    text-align: center;
+}
+
+/*  */
+.img_responsive{
+    width: 100%;
+    max-width: 800px;
+    margin: auto;
+}
+
+.separacion_superior{
+    margin-top: 25px;
+}
